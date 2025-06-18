@@ -1,0 +1,72 @@
+[
+    {
+        "plateNumber": "BJL1234A",
+        "ownerName": "Lamin Sanyang",
+        "registrationDate": "2022-03-15",
+        "contactNumber": "+2203456789",
+        "carModel": "Toyota Corolla"
+    },
+    {
+        "plateNumber": "BJL5678B",
+        "ownerName": "Fatou Jallow",
+        "registrationDate": "2021-11-22",
+        "contactNumber": "+2209876543",
+        "carModel": "Honda Civic"
+    },
+    {
+        "plateNumber": "BJL9101C",
+        "ownerName": "Ebrima Bah",
+        "registrationDate": "2023-01-10",
+        "contactNumber": "+2201234567",
+        "carModel": "Nissan Altima"
+    },
+    {
+        "plateNumber": "BJL2345D",
+        "ownerName": "Awa Touray",
+        "registrationDate": "2022-07-05",
+        "contactNumber": "+2202345678",
+        "carModel": "Ford Focus"
+    },
+    {
+        "plateNumber": "BJL6789E",
+        "ownerName": "Modou Njie",
+        "registrationDate": "2021-09-18",
+        "contactNumber": "+2208765432",
+        "carModel": "Hyundai Elantra"
+    },
+    {
+        "plateNumber": "BJL1122F",
+        "ownerName": "Mariama Ceesay",
+        "registrationDate": "2023-04-12",
+        "contactNumber": "+2201122334",
+        "carModel": "Kia Rio"
+    },
+    {
+        "plateNumber": "BJL3344G",
+        "ownerName": "Saikou Drammeh",
+        "registrationDate": "2022-12-01",
+        "contactNumber": "+2203344556",
+        "carModel": "Mazda 3"
+    },
+    {
+        "plateNumber": "BJL5566H",
+        "ownerName": "Isatou Camara",
+        "registrationDate": "2021-06-27",
+        "contactNumber": "+2205566778",
+        "carModel": "Volkswagen Polo"
+    },
+    {
+        "plateNumber": "BJL7788I",
+        "ownerName": "Abdoulie Jobe",
+        "registrationDate": "2023-02-20",
+        "contactNumber": "+2207788990",
+        "carModel": "Chevrolet Spark"
+    },
+    {
+        "plateNumber": "BJL9900J",
+        "ownerName": "Sainey Faye",
+        "registrationDate": "2022-08-30",
+        "contactNumber": "+2209900112",
+        "carModel": "Renault Clio"
+    }
+]
